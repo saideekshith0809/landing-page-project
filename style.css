@@ -32,3 +32,6 @@ section p {
 form {
   margin: auto;
 }
+section {
+  margin-bottom: 30px;
+}
