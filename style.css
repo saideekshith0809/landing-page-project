@@ -45,3 +45,13 @@ nav a {
   margin-right: 15px;
   text-decoration: none;
 }
+button {
+  padding: 8px 15px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+}
+
+button:hover {
+  background-color: #45a049;
+}
