@@ -76,3 +76,7 @@ footer {
   text-align: center;
   padding: 10px;
 }
+nav a:hover {
+  color: #4CAF50;
+}
+
