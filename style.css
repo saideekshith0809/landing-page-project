@@ -94,3 +94,9 @@ nav a:hover {
   border-radius: 8px;
 }
 
+.hero {
+  background: #4CAF50;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}
