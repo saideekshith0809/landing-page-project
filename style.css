@@ -108,3 +108,6 @@ nav a:hover {
   font-weight: bold;
   cursor: pointer;
 }
+.cta:hover {
+  background: #f0f0f0;
+}
