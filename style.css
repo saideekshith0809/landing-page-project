@@ -121,3 +121,7 @@ footer {
   list-style: none;
   gap: 15px;
 }
+.services {
+  padding: 30px;
+  text-align: center;
+}
