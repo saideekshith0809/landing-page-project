@@ -14,7 +14,9 @@ nav a {
   margin-right: 15px;
   text-decoration: none;
 }
-
+.features li {
+  margin: 8px 0;
+}
 nav a:hover {
   color: #4CAF50;
 }
