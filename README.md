@@ -46,5 +46,7 @@ This project helps practice:
 - Add animations
 
 ---
+## Updates
 
+Added features and contact sections with improved styling.
 ⭐ This project is part of my learning journey in web development.
