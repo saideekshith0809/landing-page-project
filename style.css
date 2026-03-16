@@ -129,3 +129,7 @@ footer {
   padding: 30px;
   background: #f4f4f4;
 }
+.features ul {
+  list-style: none;
+  padding: 0;
+}
