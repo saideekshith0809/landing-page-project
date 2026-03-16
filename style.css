@@ -33,7 +33,10 @@ nav a:hover {
   font-size: 18px;
   margin-top: 10px;
 }
-
+.contact {
+  padding: 30px;
+  text-align: center;
+}
 /* Sections */
 section {
   padding: 20px;
